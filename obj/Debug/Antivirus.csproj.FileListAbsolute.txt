@@ -1,0 +1,9 @@
+c:\users\mazzn\onedrive\dokumenter\visual studio 2015\Projects\Antivirus\Antivirus\bin\Debug\Antivirus.exe.config
+C:\Users\mazzn\onedrive\dokumenter\visual studio 2015\Projects\Antivirus\Antivirus\obj\Debug\Antivirus.csprojResolveAssemblyReference.cache
+C:\Users\mazzn\onedrive\dokumenter\visual studio 2015\Projects\Antivirus\Antivirus\obj\Debug\Antivirus.AntiVirus.resources
+C:\Users\mazzn\onedrive\dokumenter\visual studio 2015\Projects\Antivirus\Antivirus\obj\Debug\Antivirus.Properties.Resources.resources
+C:\Users\mazzn\onedrive\dokumenter\visual studio 2015\Projects\Antivirus\Antivirus\obj\Debug\Antivirus.csproj.GenerateResource.Cache
+C:\Users\mazzn\onedrive\dokumenter\visual studio 2015\Projects\Antivirus\Antivirus\bin\Debug\Antivirus.exe
+C:\Users\mazzn\onedrive\dokumenter\visual studio 2015\Projects\Antivirus\Antivirus\bin\Debug\Antivirus.pdb
+C:\Users\mazzn\onedrive\dokumenter\visual studio 2015\Projects\Antivirus\Antivirus\obj\Debug\Antivirus.exe
+C:\Users\mazzn\onedrive\dokumenter\visual studio 2015\Projects\Antivirus\Antivirus\obj\Debug\Antivirus.pdb
